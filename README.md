@@ -64,14 +64,7 @@ Ensure you have the following installed:
 ---
 
 ## 🖥️ Demo (UI Preview)
-```
-╔════════════════════════╗
-║       WORDLE GAME      ║
-╚════════════════════════╝
-╔═══╦═══╦═══╦═══╦═══╗
-║ A ║ P ║ P ║ L ║ E ║
-╚═══╩═══╩═══╩═══╩═══╝
-```
+![Wordle](wordle.png)
 - **Green letters** ✅ → Correct position  
 - **Yellow letters** 🟡 → Present but wrong position  
 
